@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-3D-Mockup-Design-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Mockup-Design-Software?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-3D-Mockup-Design-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Mockup-Design-Software?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Mockup-Design-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-3D-Mockup-Design-Software?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-3D-Mockup-Design-Software/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-blue.svg" alt="License: CC0 1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -68,45 +68,45 @@ The sector is **moderately fragmented**: enterprise incumbents (Adobe, Autodesk,
 
 ## 💻 Open-Source GitHub Projects
 
-*Open-source 3D suites, parametric CAD modelers, and mockup generation frameworks sorted descending by GitHub star count.*
+*Open-source 3D suites, parametric CAD modelers, and mockup generation frameworks sorted descending by GitHub Stars_Count.*
 
-- **[Blender](https://github.com/blender/blender)** [![GitHub Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🌟  
+- **[Blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🌟  
   **The definitive open-source 3D creation and rendering suite.** Covers complete modeling, sculpting, procedural materials, rigging, and photorealistic rendering via **Cycles** (path-tracer) and **EEVEE** (real-time GPU engine). Unrivaled tutorial ecosystem, active community add-ons for packaging and lighting stages, completely free without licensing fees or DRM.  
   *Tech stack: C, C++, Python • License: GPL-3.0*
 
-- **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) 📐  
+- **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) 📐  
   **Parametric open-source 3D CAD modeler.** Tailor-made for precise mechanical dimensions, technical packaging structures, enclosures, and sheet metal dielines. Integrates seamlessly with Blender for downstream lighting and texturing.  
   *Tech stack: C++, Python, Qt • License: LGPL-2.1*
 
-- **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers) 💻  
+- **[OpenSCAD](https://github.com/openscad/openscad)** [![GitHub_Stars](https://img.shields.io/github/stars/openscad/openscad?style=social&color=white)](https://github.com/openscad/openscad/stargazers) 💻  
   **The programmers' solid 3D CAD modeler.** Creates 3D mockups and CAD objects through script-based constructive solid geometry (CSG). Exceptional for automated generation of parametric containers, boxes, and dimensional prototypes from code.  
   *Tech stack: C++ • License: GPL-2.0*
 
-- **[LibreCAD](https://github.com/LibreCAD/LibreCAD)** [![GitHub Stars](https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social&color=white)](https://github.com/LibreCAD/LibreCAD/stargazers) 📏  
+- **[LibreCAD](https://github.com/LibreCAD/LibreCAD)** [![GitHub_Stars](https://img.shields.io/github/stars/LibreCAD/LibreCAD?style=social&color=white)](https://github.com/LibreCAD/LibreCAD/stargazers) 📏  
   **Open-source 2D Computer-Aided Design application.** Crucial for drafting precise packaging dielines, folding blueprints, carton layouts, and technical drawings before extruding into 3D environments.  
   *Tech stack: C++, Qt • License: GPL-2.0*
 
-- **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers) 🖌️  
+- **[ArmorPaint](https://github.com/armory3d/armorpaint)** [![GitHub_Stars](https://img.shields.io/github/stars/armory3d/armorpaint?style=social&color=white)](https://github.com/armory3d/armorpaint/stargazers) 🖌️  
   **Node-based 3D PBR texture painting software.** A stand-alone tool designed to paint physically based materials directly onto 3D objects and packaging assets, acting as a viable open-source alternative to Substance Painter.  
   *Tech stack: Haxe, C, Krom • License: Zlib*
 
-- **[automated_mockups](https://github.com/CTDave001/automated_mockups)** [![GitHub Stars](https://img.shields.io/github/stars/CTDave001/automated_mockups?style=social&color=white)](https://github.com/CTDave001/automated_mockups/stargazers) 👕  
+- **[automated_mockups](https://github.com/CTDave001/automated_mockups)** [![GitHub_Stars](https://img.shields.io/github/stars/CTDave001/automated_mockups?style=social&color=white)](https://github.com/CTDave001/automated_mockups/stargazers) 👕  
   **Scriptable automated apparel & merchandise mockup pipeline.** Python utility utilizing computer vision techniques to composite artwork, logos, and typography realistically onto apparel templates.  
   *Tech stack: Python • License: MIT*
 
-- **[mockupgen](https://github.com/rmenon1008/mockupgen)** [![GitHub Stars](https://img.shields.io/github/stars/rmenon1008/mockupgen?style=social&color=white)](https://github.com/rmenon1008/mockupgen/stargazers) 📱  
+- **[mockupgen](https://github.com/rmenon1008/mockupgen)** [![GitHub_Stars](https://img.shields.io/github/stars/rmenon1008/mockupgen?style=social&color=white)](https://github.com/rmenon1008/mockupgen/stargazers) 📱  
   **Fast device mockup generator CLI.** Generates high-fidelity device mockups (smartphones, laptops, tablets) from UI screenshots using automated homography transformations with OpenCV.  
   *Tech stack: Python, OpenCV • License: MIT*
 
-- **[vue-three-d-mockup](https://github.com/anatolykopyl/vue-three-d-mockup)** [![GitHub Stars](https://img.shields.io/github/stars/anatolykopyl/vue-three-d-mockup?style=social&color=white)](https://github.com/anatolykopyl/vue-three-d-mockup/stargazers) 📱  
+- **[vue-three-d-mockup](https://github.com/anatolykopyl/vue-three-d-mockup)** [![GitHub_Stars](https://img.shields.io/github/stars/anatolykopyl/vue-three-d-mockup?style=social&color=white)](https://github.com/anatolykopyl/vue-three-d-mockup/stargazers) 📱  
   **Interactive 3D device mockup component for web applications.** Built on Vue.js and Three.js, enabling developers to showcase mobile screenshots and app interactions on rotating 3D devices directly in the browser.  
   *Tech stack: Vue.js, Three.js, JavaScript • License: MIT*
 
-- **[product-mockup-node-python](https://github.com/kashifulhaque/product-mockup-node-python)** [![GitHub Stars](https://img.shields.io/github/stars/kashifulhaque/product-mockup-node-python?style=social&color=white)](https://github.com/kashifulhaque/product-mockup-node-python/stargazers) ☕  
+- **[product-mockup-node-python](https://github.com/kashifulhaque/product-mockup-node-python)** [![GitHub_Stars](https://img.shields.io/github/stars/kashifulhaque/product-mockup-node-python?style=social&color=white)](https://github.com/kashifulhaque/product-mockup-node-python/stargazers) ☕  
   **Automated batch product mockup generator.** Employs ImageMagick, Node.js, and Python to project 2D brand artwork onto mugs, bottles, and boxes for automated e-commerce catalog pipelines.  
   *Tech stack: Node.js, Python, ImageMagick • License: MIT*
 
-- **[Cota](https://github.com/mxchristian17/cota)** [![GitHub Stars](https://img.shields.io/github/stars/mxchristian17/cota?style=social&color=white)](https://github.com/mxchristian17/cota/stargazers) 📐  
+- **[Cota](https://github.com/mxchristian17/cota)** [![GitHub_Stars](https://img.shields.io/github/stars/mxchristian17/cota?style=social&color=white)](https://github.com/mxchristian17/cota/stargazers) 📐  
   **Browser-native command-line 2D/3D CAD tool.** Features real 3D solids, boolean operations, dimensioned viewports, and vector PDF exports with zero installation or account requirements.  
   *Tech stack: TypeScript, WebAssembly, Canvas • License: Apache-2.0*
 
@@ -144,7 +144,7 @@ Contributions are welcome! Help us keep this directory accurate, up-to-date, and
 3. ✏️ **Add your software**: Follow the existing table/list formatting with:
    - Name and website / repository link
    - Specific starting pricing tier and exact free tier / trial limitations
-   - Company valuation, revenue, or GitHub star badge
+   - Company valuation, revenue, or GitHub Stars_Badge
    - Concise 1–2 sentence description of target use case
 4. 🧪 **Check link validity**: Ensure all URLs are active.
 5. 🚀 **Submit a Pull Request** with a descriptive explanation of the proposed changes.
