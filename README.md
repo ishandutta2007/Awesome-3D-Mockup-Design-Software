@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -37,6 +39,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global 3D modeling, rendering, and staging software market is valued at approximately **$25–$30 billion**, experiencing robust ~15–20% CAGR driven by e-commerce visualization, spatial computing, and real-time WebGL workflows.
+
+The sector is **moderately fragmented**: enterprise incumbents (Adobe, Autodesk, Dassault Systèmes) dominate high-end engineering and creative pipelines, while specialized browser-native tools (such as Spline and Vectary) and dominant open-source platforms (Blender) capture massive creator adoption, preventing a winner-take-all outcome.
 
 
 
