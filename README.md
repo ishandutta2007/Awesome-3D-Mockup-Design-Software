@@ -68,7 +68,7 @@ The sector is **moderately fragmented**: enterprise incumbents (Adobe, Autodesk,
 
 ## 💻 Open-Source GitHub Projects
 
-*Open-source 3D suites, parametric CAD modelers, and mockup generation frameworks sorted descending by GitHub Stars_Count.*
+*Open-source 3D suites, parametric CAD modelers, and mockup generation frameworks sorted descending by GitHub_Stars_Count.*
 
 - **[Blender](https://github.com/blender/blender)** [![GitHub_Stars](https://img.shields.io/github/stars/blender/blender?style=social&color=white)](https://github.com/blender/blender/stargazers) 🌟  
   **The definitive open-source 3D creation and rendering suite.** Covers complete modeling, sculpting, procedural materials, rigging, and photorealistic rendering via **Cycles** (path-tracer) and **EEVEE** (real-time GPU engine). Unrivaled tutorial ecosystem, active community add-ons for packaging and lighting stages, completely free without licensing fees or DRM.  
@@ -144,7 +144,7 @@ Contributions are welcome! Help us keep this directory accurate, up-to-date, and
 3. ✏️ **Add your software**: Follow the existing table/list formatting with:
    - Name and website / repository link
    - Specific starting pricing tier and exact free tier / trial limitations
-   - Company valuation, revenue, or GitHub Stars_Badge
+   - Company valuation, revenue, or GitHub_Stars_Badge
    - Concise 1–2 sentence description of target use case
 4. 🧪 **Check link validity**: Ensure all URLs are active.
 5. 🚀 **Submit a Pull Request** with a descriptive explanation of the proposed changes.
